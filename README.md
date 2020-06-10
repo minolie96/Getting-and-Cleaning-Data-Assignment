@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Assignment
 By Minoli Ekanayake
+
 The libraries used in this operation are dplyr
 The supporting metadata in this data are the name of the features and the name of the activities. They are loaded into variables featureNames and activityLabels
 The training and test data sets are loaded
